@@ -37,16 +37,7 @@ This SQL script analyzes customer spending, order patterns, product revenue, dis
 - Calculates **repeat purchases**, **average days between purchases**, and **customer churn status**.
 - Identifies `Active` and `Churned` customers based on last purchase date.
 
-## Prerequisites
-- **Database:** AdventureWorks2019
-- **SQL Server** or a compatible environment
 
-
-## Output Insights
-- Monthly customer spending trends
-- Sales trends and fluctuations
-- Product revenue contribution
-- Impact of discounts on revenue
-- Sales rep rankings and performance evaluation
-- Customer retention and churn analysis
-
+**Sofo Qaadze**  
+📧 sqaadze2000@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/sofo-qaadze-ba7895205/)  
