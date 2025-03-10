@@ -1,4 +1,4 @@
-# SQL Sales and Customer Analysis
+# Sales and Customer Insights
 
 ## Overview
 This SQL script analyzes customer spending, order patterns, product revenue, discount impact, sales representative performance, and customer retention using the **AdventureWorks2019** database. The script includes various analytical queries to gain insights into sales trends and customer behavior.
