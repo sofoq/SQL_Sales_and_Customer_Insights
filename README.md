@@ -37,6 +37,3 @@ This SQL script analyzes customer spending, order patterns, product revenue, dis
 - Calculates **repeat purchases**, **average days between purchases**, and **customer churn status**.
 - Identifies `Active` and `Churned` customers based on last purchase date.
 
-**Sofo Qaadze**  
-📧 sqaadze2000@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/sofo-qaadze-ba7895205/)
