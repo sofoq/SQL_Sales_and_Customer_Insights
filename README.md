@@ -7,6 +7,8 @@ This SQL script analyzes customer spending, order patterns, product revenue, dis
 
 
 
+
+
 ## 🛠️ Features
 ### 1. Orders View - Aggregated Sales Data
 - Creates a **view** named `Orders` that aggregates sales data per month, customer, and order ID.
