@@ -3,6 +3,10 @@
 ## 🔍 Overview
 This SQL script analyzes customer spending, order patterns, product revenue, discount impact, sales representative performance, and customer retention using the **AdventureWorks2019** database. The script includes various analytical queries to gain insights into sales trends and customer behavior.
 
+- [👥 Customer Report](https://github.com/sofoq/SQL_Sales_and_Customer_Insights/blob/main/CUSTOMERS%20REPORT/Customer%20Insights.sql)
+
+
+
 ## 🛠️ Features
 ### 1. Orders View - Aggregated Sales Data
 - Creates a **view** named `Orders` that aggregates sales data per month, customer, and order ID.
